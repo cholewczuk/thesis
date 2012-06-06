@@ -1,0 +1,1 @@
+## M. Sc. thesisA graph-based representation of functional harmony rules in a computer application for learning the basics of creating musical compositions.---## Praca MagisterskaWykorzystanie grafowej reprezentacji zasad harmonii funkcyjnej na przykładzie programu do nauki podstaw tworzenia kompozycji muzycznych.

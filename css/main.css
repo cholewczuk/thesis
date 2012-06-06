@@ -1,0 +1,58 @@
+body {
+    font: 14px sans-serif;
+    margin: 0;
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 150%;
+}
+
+h3 {
+    font-weight: normal;
+    font-size: 125%;
+}
+
+h4 {
+    font-weight: normal;
+    font-size: 110%;
+}
+
+#HarmonyContainer {
+    background-color: #ffffff;
+    overflow: auto;
+}
+
+#Harmony {
+    overflow: hidden;
+}
+
+#HarmonyCheck {
+    width: 360px;
+    float: left;
+    overflow-y: auto;
+    margin-right: 20px;
+    padding-top: 10px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul ul {
+    margin-left: 10px;
+    padding: 0;
+}
+
+ul ul li {
+    margin: 0;
+}
+
+.space {
+    margin: 0 5px 0 20px;
+}
